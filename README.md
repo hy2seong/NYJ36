@@ -16,7 +16,7 @@
 ## 프로그램을 디버깅 해주고 있는 분
 호야, KDH07, LDH0606
 
-### Hi there 👋
+## Hi there 👋
 
 **NYJ36/NYJ36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
