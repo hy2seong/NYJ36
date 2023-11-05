@@ -1,2 +1,12 @@
-[![NYJ36의 기여내역](https://github-readme-stats.vercel.app/api?username=NYJ36&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NYJ36&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 안녕! 이웃!
+코딩을 자신이 원하는 곳에 쓰기 위해 취미로 하고 있어요.
+
+## 할 수 있는 프로그래밍 언어들
+C#, C++, Python, Java, JS, GO
+
+*(입문했던 순서인 건 안비밀)*
+
+## 간소한 질문들
+- 자료가 적은 것 같은데요?
+
+  대부분은 저장하기 위해서 비공개 파일로 저장되어 있어요.
